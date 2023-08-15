@@ -11,5 +11,5 @@ Heroku Deployment: Hosts the web API on Heroku for easy access and sharing.
 The recommendation system is evaluated using Root Mean Squared Error (RMSE) for user- and item-based collaborative filtering. The sentiment analysis model's performance is validated by analyzing the correlation between predicted sentiments and user ratings.
 
 ## Deployment and Inference
-![Screenshot 1](/UI1.png)
+![Screenshot 1](https://github.com/sujaykondanekar/SentimentBasedProductRecommendationSystem/blob/master/UI1.PNG)https://github.com/sujaykondanekar/SentimentBasedProductRecommendationSystem/blob/master/UI1.PNG)
 ![Screenshot 2](/UI2.png)
