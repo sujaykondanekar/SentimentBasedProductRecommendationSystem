@@ -12,4 +12,4 @@ The recommendation system is evaluated using Root Mean Squared Error (RMSE) for 
 
 ## Deployment and Inference
 ![Screenshot 1](https://github.com/sujaykondanekar/SentimentBasedProductRecommendationSystem/blob/master/UI1.PNG)https://github.com/sujaykondanekar/SentimentBasedProductRecommendationSystem/blob/master/UI1.PNG)
-![Screenshot 2](/UI2.png)
+![Screenshot 2](https://github.com/sujaykondanekar/SentimentBasedProductRecommendationSystem/blob/master/UI1.PNG)https://github.com/sujaykondanekar/SentimentBasedProductRecommendationSystem/blob/master/UI2.PNG)
